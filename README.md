@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alfredo! </h1>
+<h1>Hi, I'm Alfredo! . BS in Computer Science </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
