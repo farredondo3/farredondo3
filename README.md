@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/farredondo3/config-AD/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/farredondo3/pythonProject)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/farredondo3/az-network-protocols)
 - <b>osTicket: Creating a ticketing system for Help Desk</b>
   - [osTicket: Prerequisites and Installation)](https://github.com/farredondo3/wguSoftware1FX)
   - [osTicket: Post-Installation Configuration](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
