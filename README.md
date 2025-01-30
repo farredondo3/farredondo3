@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting Up Active Directory using Azure VMs](https://github.com/farredondo3/pythonProject)
+  - [Setting Up Active Directory using Azure VMs](https://github.com/farredondo3/config-AD/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/farredondo3/pythonProject)
 - <b>osTicket: Creating a ticketing system for Help Desk</b>
   - [osTicket: Prerequisites and Installation)](https://github.com/farredondo3/wguSoftware1FX)
