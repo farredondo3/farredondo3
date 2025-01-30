@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Python</b>
+- <b>Microsoft Azure</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/farredondo3/pythonProject)
   
 - <b>Java</b>
