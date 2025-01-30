@@ -1,6 +1,6 @@
-<h1>Hi, I'm Alfredo! . BS in Computer Science </h1>
+<h1>Hi, I'm Alfredo! . IT Specialist </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/farredondo3/pythonProject)
