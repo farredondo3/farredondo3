@@ -1,6 +1,7 @@
 <h1>Hi, I'm Alfredo!, An IT Specialist </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>Microsoft Azure</b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/farredondo3/pythonProject)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/farredondo3/pythonProject)
