@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine](https://github.com/farredondo3/pythonProject)
+  - [VPN Setup in Virtual Machine](https://github.com/farredondo3/Setup-VPN))
 
 
 
