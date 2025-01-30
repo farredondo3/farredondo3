@@ -17,4 +17,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-\<[img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"]/>
+# My Profile
+
+![LinkedIn Profile](https://media.licdn.com/dms/image/D4E03AQFxxxxxxx/profile-displayphoto-shrink_200_200/0/xxxxxxxx?e=yyyyyyyy&v=beta&t=zzzzzzzz)
+
+## Connect with me on LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfredo-arredondo1013)
