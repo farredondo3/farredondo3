@@ -17,10 +17,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-# My Profile
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/alfredo-arredondo1013)
-
-
-## Connect with me on LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alfredo-arredondo1013)
+<a href="https://www.linkedin.com/in/alfredo-arredondo1013/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
+</a>
