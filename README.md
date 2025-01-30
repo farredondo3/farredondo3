@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/farredondo3/pythonProject)
   
-- <b>Java</b>
+- <b>osTicket: Creating a ticketing system for Help Desk</b>
     - [Inventory Management Application](https://github.com/farredondo3/wguSoftware1FX)
     - [Appointment Scheduling Application](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
 
