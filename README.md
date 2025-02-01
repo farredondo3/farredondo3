@@ -7,7 +7,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/farredondo3/az-network-protocols)
 - <b>osTicket: Creating a ticketing system for Help Desk</b>
   - [osTicket: Prerequisites and Installation)](https://github.com/farredondo3/prereq-osticket/blob/main/README.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
+  - [osTicket: Post-Installation Configuration](https://github.com/farredondo3/osTicketConfig/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/farredondo3/Setup-VPN))
