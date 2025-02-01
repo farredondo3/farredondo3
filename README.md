@@ -8,7 +8,7 @@
 - <b>osTicket: Creating a ticketing system for Help Desk</b>
   - [osTicket: Prerequisites and Installation)](https://github.com/farredondo3/prereq-osticket/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/farredondo3/osTicketConfig/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/farredondo3/AlfredoArredondoC195PAv1.2)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/farredondo3/ticket-lifestyle/blob/main/README.md)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/farredondo3/Setup-VPN))
 
